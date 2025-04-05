@@ -2,13 +2,9 @@
 
 ### Overview
 
-### Environment
-
-pip install -r requirements.txt
-
 ### Data
 
-Download from Google Drive: [Baby/Sports/Clothing](https://drive.google.com/drive/folders/1M4HH4EXHgGBD0kK9qnZIDEI1idbzM4nd?usp=drive_link).
+Download dataset: [Baby/Sports/Clothing]([https://drive.google.com/drive/folders/1M4HH4EXHgGBD0kK9qnZIDEI1idbzM4nd?usp=drive_link](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html)).
 The data contains text and image features extracted from Sentence-Transformers and VGG-16 and has been publiced in [MMRec](https://github.com/enoche/MMRec) framework.
 
 ### Run
