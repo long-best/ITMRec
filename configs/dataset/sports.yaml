@@ -9,11 +9,7 @@ filter_out_cod_start_users: True
 inter_file_name: 'sports.inter'
 vision_feature_file: 'image_feat.npy'
 text_feature_file: 'text_feat.npy'
-
 field_separator: "\t"
-
-is_neighbour: True
-can_sampling: False
 embedding_size: 64
 feat_embed_dim: 64
 cf_model: lightgcn
