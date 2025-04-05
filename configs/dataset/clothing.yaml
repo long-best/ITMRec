@@ -10,7 +10,6 @@ inter_file_name: 'clothing.inter'
 vision_feature_file: 'image_feat.npy'
 text_feature_file: 'text_feat.npy'
 beta: [ 1.0 ]
-p: [1]
 field_separator: "\t"
 is_neighbour: True
 can_sampling: False
