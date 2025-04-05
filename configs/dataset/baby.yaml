@@ -11,8 +11,6 @@ inter_file_name: 'baby.inter'
 vision_feature_file: 'image_feat.npy'
 text_feature_file: 'text_feat.npy'
 field_separator: "\t"
-is_neighbour: True
-can_sampling: False
 feat_embed_dim: 64
 cf_model: lightgcn
 meta_weight: [ 0.9 ]
