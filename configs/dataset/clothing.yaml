@@ -9,17 +9,11 @@ filter_out_cod_start_users: True
 inter_file_name: 'clothing.inter'
 vision_feature_file: 'image_feat.npy'
 text_feature_file: 'text_feat.npy'
-beta: [ 1.0 ]
 field_separator: "\t"
 is_neighbour: True
 can_sampling: False
 embedding_size: 64
 feat_embed_dim: 64
 cf_model: lightgcn
-meta_weight: [ 0.5 ]
-n_meta_layer: [ 5 ]
-n_ui_layers: [ 7 ]
-n_mm_layers: [ 2 ]
-reg_weight: [ 1e-06 ]
-hyper_parameters: [ "n_ui_layers", "n_mm_layers", 'meta_weight','n_meta_layer','reg_weight','modalrate' ]
+
 
