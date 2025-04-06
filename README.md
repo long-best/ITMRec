@@ -5,7 +5,7 @@
 ### Data
 
 Download dataset: [Baby/Sports/Clothing](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html).
-The data contains text and image features extracted from Sentence-Transformers and VGG-16 and has been publiced in [MMRec](https://github.com/enoche/MMRec) framework.
+Our code is based on [MMRec](https://github.com/enoche/MMRec) framework.
 
 ### Run
 1. Put your downloaded data (e.g. baby) under `data/` dir.
