@@ -13,13 +13,6 @@ field_separator: "\t"
 embedding_size: 64
 feat_embed_dim: 64
 cf_model: lightgcn
-meta_weight: [ 0.6 ]
-n_meta_layer: [ 5 ]
-n_ui_layers: [ 8 ]
-n_mm_layers: [ 2 ]
-reg_weight: [ 1e-06 ]
-beta: [1]
-p: [1]
-hyper_parameters: [ "n_ui_layers", "n_mm_layers", 'meta_weight','n_meta_layer','reg_weight','modalrate' ]
+
 
 
