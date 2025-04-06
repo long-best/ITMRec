@@ -13,11 +13,4 @@ text_feature_file: 'text_feat.npy'
 field_separator: "\t"
 feat_embed_dim: 64
 cf_model: lightgcn
-meta_weight: [ 0.9 ]
-bate: [ 1 ]
-p: [1]
-n_meta_layer: [ 8 ]
-n_ui_layers: [ 9 ]
-n_mm_layers: [ 2 ]
-reg_weight: [ 1e-06 ]
-hyper_parameters: [ "n_ui_layers", "n_mm_layers", 'meta_weight','n_meta_layer','reg_weight','modalrate' ]
+
